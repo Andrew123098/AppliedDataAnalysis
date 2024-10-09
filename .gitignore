@@ -1,3 +1,9 @@
 .ipynb_checkpoints
 *.DS_Store
 *.DS_Store?
+env/*
+Homework/00 - Optional Homework/*
+Exercises/00 - Intro to Tools/*
+Project/BeerAdvocate/*
+Project/MatchedBeerData/*
+Project/RateBeer/*
